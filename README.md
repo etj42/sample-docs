@@ -6,6 +6,6 @@ test out github pages for docs
 3. c
 
 
--Q
--W
--E
+- Q
+- W
+- E
